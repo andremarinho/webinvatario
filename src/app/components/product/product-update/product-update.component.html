@@ -1,0 +1,24 @@
+<mat-card>
+    <mat-card-title> Alterar Quantidade Produto</mat-card-title>
+    <form>
+        <mat-form-field>
+            <input matInput placeholder="Nome"
+                [(ngModel)]="product.name" name="name" disabled>
+        </mat-form-field>
+        <mat-form-field>
+            <input matInput type="number" placeholder="Qtd Loja"
+                [(ngModel)]="product.qtdLoja" name="qtdLoja">
+        </mat-form-field>
+         <mat-form-field>
+            <input matInput type="number" placeholder="Qtd Estoque"
+                [(ngModel)]="product.qtdEstoque" name="qtdEstoque">
+        </mat-form-field>
+    </form>
+    <button mat-raised-button (click)="updateProduct()" color="primary">
+        Atualizar
+    </button>
+    
+    <button mat-raised-button (click)="cancel()">
+        Cancelar
+    </button>
+</mat-card>

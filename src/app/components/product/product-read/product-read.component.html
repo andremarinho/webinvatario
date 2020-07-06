@@ -1,0 +1,13 @@
+
+<div>
+     <mat-form-field class="example-full-width">
+        <mat-label>Codigo do Produto</mat-label>
+        <input matInput  [(ngModel)]="codigo" >
+      </mat-form-field>
+</div>
+
+<div>
+  <button mat-raised-button routerLink="/products/update/{{ codigo }}"  color="primary">Pesquisa</button>
+</div>
+
+
