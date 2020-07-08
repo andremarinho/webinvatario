@@ -4,7 +4,7 @@
 ### Um sistema  pra ser utilizado para estudo.
 
 
-####  O fluxo do sistema é bastante simples, porém funcional.  a primeira tela consulta um codigo e caso exista o codigo na base
+<p> O fluxo do sistema é bastante simples, porém funcional.  a primeira tela consulta um codigo e caso exista o codigo na base. </p>
 
 ### Fluxo:
 
