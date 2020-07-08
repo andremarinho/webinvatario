@@ -3,10 +3,15 @@
 
 ### Um sistema  pra ser utilizado para estudo.
 
+### Tecnologias utilizadas:
 
-####  O fluxo do sistema é bastante simples, porém funcional.  a primeira tela consulta um codigo e caso exista o codigo na base
+1. Angular 
 
-###Fluxo:
+
+
+<p> O fluxo do sistema é bastante simples, porém funcional.  a primeira tela consulta um codigo e caso exista o codigo na base. </p>
+
+### Fluxo:
 
 #### Tela 01: Consulta do código do produto.
 
