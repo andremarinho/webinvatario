@@ -16,7 +16,11 @@
 #### Tela 01: Consulta do código do produto.
 
 
+![Philadelphia's Magic Gardens. This place was so cool!](src/assets/img/1.jpg "Consulta dos produtos")
 
 
 
+#### Tela 02: Inclusão e Atualização da quantidade dos produtos.
 
+
+![Philadelphia's Magic Gardens. This place was so cool!](src/assets/img/2.jpg "Atualização da quantidade")
