@@ -6,7 +6,7 @@
 
 ####  O fluxo do sistema é bastante simples, porém funcional.  a primeira tela consulta um codigo e caso exista o codigo na base
 
-###Fluxo:
+### Fluxo:
 
 #### Tela 01: Consulta do código do produto.
 
