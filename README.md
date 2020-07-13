@@ -3,6 +3,8 @@
 
 ### Um sistema  pra ser utilizado para estudo.
 
+### Esse projeto é uma adaptação de um crud disponibilizado pela [Cod3r](www.cod3r.com.br)
+
 ### Tecnologias utilizadas:
 
 1. Angular 
@@ -33,6 +35,9 @@ Tela 01: Tela de cosulta do codigo e validação, caso o codigo exista na base d
 >Tela 02: Inclusão e Atualização da quantidade dos produtos.
 
 Tela 02: Caso o código seja valido então o  sistema permite a inclusão ou atuluzação das quantidades.
+
+
+O projeto foi executado no docker através de um servidor nginx.
 
 
 ![Philadelphia's Magic Gardens. This place was so cool!](src/assets/img/2.jpg "Atualização da quantidade")
