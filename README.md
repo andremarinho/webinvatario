@@ -26,7 +26,8 @@ Tela 01: Tela de cosulta do codigo e validação, caso o codigo exista na base d
 <br>
 <br>
 <br>
-
+<br>
+<br>
 
 
 >Tela 02: Inclusão e Atualização da quantidade dos produtos.
