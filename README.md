@@ -21,7 +21,7 @@ Tela 01: Tela de cosulta do codigo e validação, caso o codigo exista na base d
 ![Philadelphia's Magic Gardens. This place was so cool!](src/assets/img/1.jpg "Consulta dos produtos")
 
 
-___
+***
 
 
 
