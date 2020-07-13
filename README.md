@@ -13,21 +13,21 @@
 
 ### Fluxo:
 
-#### Tela 01: Consulta do código do produto.
+>Tela 01: Consulta do código do produto.
 
 
 ![Philadelphia's Magic Gardens. This place was so cool!](src/assets/img/1.jpg "Consulta dos produtos")
 
->Tela 01: Tela de cosulta do codigo e validação, caso o codigo exista na base de dados, então na proxima tela será exibido o produto carregado. 
+Tela 01: Tela de cosulta do codigo e validação, caso o codigo exista na base de dados, então na proxima tela será exibido o produto carregado. 
 
 
 
 
 
 
-#### Tela 02: Inclusão e Atualização da quantidade dos produtos.
+>Tela 02: Inclusão e Atualização da quantidade dos produtos.
 
 
 ![Philadelphia's Magic Gardens. This place was so cool!](src/assets/img/2.jpg "Atualização da quantidade")
 
->Tela 02: Caso o código seja valido então o  sistema permite a inclusão ou atuluzação das quantidades.
+Tela 02: Caso o código seja valido então o  sistema permite a inclusão ou atuluzação das quantidades.
