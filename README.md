@@ -3,7 +3,7 @@
 
 ### Um sistema  pra ser utilizado para estudo.
 
-### Esse projeto é uma adaptação de um crud disponibilizado pela [Cod3r](www.cod3r.com.br)
+### Esse projeto é uma adaptação de um crud disponibilizado pela [Cod3r](https://www.cod3r.com.br)
 
 ### Tecnologias utilizadas:
 
