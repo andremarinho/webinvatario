@@ -42,3 +42,11 @@ O projeto foi executado no docker através de um servidor nginx.
 
 ![Philadelphia's Magic Gardens. This place was so cool!](src/assets/img/2.jpg "Atualização da quantidade")
 
+
+<br>
+<br>
+<br>
+
+[![Alternate Text]({image-url})]({https://www.youtube.com/watch?v=FvODq3_KQc4} "Sistema de inventario")
+
+
