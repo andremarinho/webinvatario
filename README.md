@@ -47,6 +47,8 @@ O projeto foi executado no docker através de um servidor nginx.
 <br>
 <br>
 
-[![Alternate Text]({image-url})]({https://www.youtube.com/watch?v=FvODq3_KQc4} "Sistema de inventario")
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/watch?v=FvODq3_KQc4" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
 
